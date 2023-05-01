@@ -1,4 +1,6 @@
 # Strategy FrtBySl 
+https://user-images.githubusercontent.com/82644207/235460263-ff4d6189-b676-4b5a-90bb-55746aedec0e.png
+
 ```
 //@version=5
 ```
