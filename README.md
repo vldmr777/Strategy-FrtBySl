@@ -1,5 +1,6 @@
 # Strategy FrtBySl 
 ![](https://user-images.githubusercontent.com/82644207/235460263-ff4d6189-b676-4b5a-90bb-55746aedec0e.png)
+Please read the description of the strategy functionality
 ```
 //@version=5
 ```
@@ -35,4 +36,4 @@ These lines use an `if` statement to check if the current candle is a bullish re
 
 These lines are commented out and provide a message template for an alert that can be triggered when a trade is made using this strategy. The message will display information about the order action (buy or sell), the ticker symbol, the exchange, and the current price. This message can be customized and used with the `alertcondition` function to trigger an alert when a trade is made.
 
-Overall, this script creates a simple trading strategy that looks for bullish and bearish reversals and enters long or short positions accordingly. The maximum intraday loss is limited as a percentage of equity, and there is an option to trigger an alert when a trade is made.
+- Overall, this script creates a simple trading strategy that looks for bullish and bearish reversals and enters long or short positions accordingly. The maximum intraday loss is limited as a percentage of equity, and there is an option to trigger an alert when a trade is made.
