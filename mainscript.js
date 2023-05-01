@@ -9,4 +9,3 @@ if (close < open and open < close[1])
 
 //Alert for Strategy FrtBySl:
 //Strategy FrtBySl: {{strategy.order.action}} @{{ticker}}·{{exchange}}. Current price: {{close}}
-//1
